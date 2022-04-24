@@ -1,0 +1,3 @@
+# ignore saved checkpoint and data set
+best_checkpoint.pth
+/pokemon-dataset/
